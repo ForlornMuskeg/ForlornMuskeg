@@ -2,7 +2,7 @@
 
 ⚡ Electrical and Electronics Engineering background, currently focused on modern C++, low-level systems, and low-latency software development.
 
-💻 Working on performance-critical architectures, networking, concurrency, and algorithmic/HFT trading systems.
+💻 Working on performance-critical architectures, networking, concurrency, and algorithmic trading systems.
 
 🚀 Currently building a private multi-venue trading engine focused on low-latency market data processing and order execution infrastructure, including protocol parsing, network layer design, and order management systems.
 
