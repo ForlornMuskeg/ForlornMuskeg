@@ -7,7 +7,7 @@
 🚀 Currently building a private multi-venue trading engine focused on low-latency market data processing and order execution infrastructure, including protocol parsing, network layer design, and order management systems.
 
 🔒 The repository is private, but project documentation is available here:
-[[TradingEngine-dpcs]](https://umutcandundar.github.io/TradingEngine-docs/)
+[[TradingEngine-docs]](https://umutcandundar.github.io/TradingEngine-docs/)
 
 
 
